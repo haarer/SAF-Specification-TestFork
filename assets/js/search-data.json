@@ -7820,66 +7820,66 @@
   },"1117": {
     "doc": "Aspects",
     "title": "Aspects",
-    "content": "Aspects are the columns of the SAF Grid. They organize the viewpoints by the kind of information need of stakeholders. ",
+    "content": "Aspects are the columns of the SAF grid. They organize the viewpoints by the kind of information need of stakeholders. ",
     "url": "/SAF-Specification-TestFork/userdoc/aspects.html",
     
     "relUrl": "/userdoc/aspects.html"
   },"1118": {
     "doc": "Aspects",
-    "title": "Context &amp; Exchange Aspect",
+    "title": " Context &amp; Exchange Aspect",
     "content": "Identifies and describes the environment of an element, its boundary, and the external elements having a relation with it. It identifies the interaction and exchange between an element and the external elements. ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#context--exchange-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573477769334_411734_55347",
     
-    "relUrl": "/userdoc/aspects.html#context--exchange-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573477769334_411734_55347"
   },"1119": {
     "doc": "Aspects",
-    "title": "Taxonomy &amp; Structure Aspect",
+    "title": " Taxonomy &amp; Structure Aspect",
     "content": "Identifies and describes the breakdown and decomposition of elements and defines the dependencies and relationships between the different elements. ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#taxonomy--structure-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478263296_178397_55752",
     
-    "relUrl": "/userdoc/aspects.html#taxonomy--structure-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478263296_178397_55752"
   },"1120": {
     "doc": "Aspects",
-    "title": "Process &amp; Behavior Aspect",
+    "title": " Process &amp; Behavior Aspect",
     "content": "Captures functions, activities, processes, and flows. Identifies and describes activities, their inputs and outputs, activity actions, and flows between them. Captures state-based behavior of an element. It is a graphical representation of states of a structural element and how it responds to various events and actions. ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#process--behavior-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478271003_747028_55755",
     
-    "relUrl": "/userdoc/aspects.html#process--behavior-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478271003_747028_55755"
   },"1121": {
     "doc": "Aspects",
-    "title": "Interaction &amp; Collaboration Aspect",
+    "title": " Interaction &amp; Collaboration Aspect",
     "content": "Identifies and describes time-ordered examination of exchanges between participating elements as a result of a particular scenario. ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#interaction--collaboration-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478279723_738954_55758",
     
-    "relUrl": "/userdoc/aspects.html#interaction--collaboration-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478279723_738954_55758"
   },"1122": {
     "doc": "Aspects",
-    "title": "Interface Aspect",
+    "title": " Interface Aspect",
     "content": "[tbd] . ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#interface-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478299847_198747_55761",
     
-    "relUrl": "/userdoc/aspects.html#interface-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478299847_198747_55761"
   },"1123": {
     "doc": "Aspects",
-    "title": "Requirement Aspect",
+    "title": " Requirement Aspect",
     "content": "[tbd] . ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#requirement-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478310642_402706_55764",
     
-    "relUrl": "/userdoc/aspects.html#requirement-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478310642_402706_55764"
   },"1124": {
     "doc": "Aspects",
-    "title": "Safety &amp; Security Aspect",
+    "title": " Safety &amp; Security Aspect",
     "content": "[tbd] . ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#safety--security-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478328161_943945_55767",
     
-    "relUrl": "/userdoc/aspects.html#safety--security-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478328161_943945_55767"
   },"1125": {
     "doc": "Aspects",
-    "title": "Traceability &amp; Mapping Aspect",
+    "title": " Traceability &amp; Mapping Aspect",
     "content": "Traceability Identifies and describes the traceability between requirements or standards and model elements in the various domains and viewpoints. Mapping Identifies and describes the mapping between elements in the architecture. This may be between different viewpoints within domains as well as between domains. It may also be between structure and behaviors, too. ",
-    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#traceability--mapping-aspect",
+    "url": "/SAF-Specification-TestFork/userdoc/aspects.html#_19_0_2_8710274_1573478339752_58845_55770",
     
-    "relUrl": "/userdoc/aspects.html#traceability--mapping-aspect"
+    "relUrl": "/userdoc/aspects.html#_19_0_2_8710274_1573478339752_58845_55770"
   },"1126": {
     "doc": "Common Domain",
     "title": "Common Domain",
@@ -8233,52 +8233,52 @@
   },"1176": {
     "doc": "Domains",
     "title": "Domains",
-    "content": "Domains are the rows of the SAF Grid. They implement the Stakeholder Perspective Concept from ISO 42010 . ",
+    "content": "Domains are the rows of the SAF grid They implement the Stakeholder Perspective Concept from ISO 42010 . ",
     "url": "/SAF-Specification-TestFork/userdoc/domains.html",
     
     "relUrl": "/userdoc/domains.html"
   },"1177": {
     "doc": "Domains",
-    "title": "Common Domain",
+    "title": " Common Domain",
     "content": "Defines overarcing content, e.g. Terms, Applicable Standards . ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#common-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_19_0_3_ebf0350_1584204842123_940980_356",
     
-    "relUrl": "/userdoc/domains.html#common-domain"
+    "relUrl": "/userdoc/domains.html#_19_0_3_ebf0350_1584204842123_940980_356"
   },"1178": {
     "doc": "Domains",
-    "title": "SAF Development Domain",
+    "title": " SAF Development Domain",
     "content": "The SAF Development Domain supports the development, maintenance and extension of the SAF. ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#saf-development-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_2024x_26f0132_1719736322867_114112_27937",
     
-    "relUrl": "/userdoc/domains.html#saf-development-domain"
+    "relUrl": "/userdoc/domains.html#_2024x_26f0132_1719736322867_114112_27937"
   },"1179": {
     "doc": "Domains",
-    "title": "Functional Domain",
+    "title": " Functional Domain",
     "content": "The Functional Domain Viewpoints addresses information needs during the System Requirements definition Process. It focuses on conceptual black box aspects of the system. E.g. it translates Operational Domain (intended solution) usage into the notion of System Functions defining the demanded system behavior and quality attributes - performance, safety, security, etc.; the demanded system behavior as it is perceived by the User or other Entities at the System Boundary (known as usage behavior). The result of the Functional Domain viewpoint-oriented elaboration approach is a comprehensive System Specification. ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#functional-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_19_0_2_8710274_1573478560509_477211_55776",
     
-    "relUrl": "/userdoc/domains.html#functional-domain"
+    "relUrl": "/userdoc/domains.html#_19_0_2_8710274_1573478560509_477211_55776"
   },"1180": {
     "doc": "Domains",
-    "title": "Logical Domain",
+    "title": " Logical Domain",
     "content": "The Logical Domain Viewpoints address the information need during the architecture definition process. It focuses on conceptual white box aspect of the system. It describes the SOI Logical Structure and the distribution of responsibilities for the functionality of the SOI by means of a network of interacting Logical Elements that are responsible for a set of desired Functions. These Logical Elements and their Interactions are arranged in the Logical Architecture of the SOI. The structure of the Logical Architecture is in general influenced by Non-functional criteria, e.g., maintainability, reliability, safety, and security. ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#logical-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_19_0_2_8710274_1573478570540_322780_55779",
     
-    "relUrl": "/userdoc/domains.html#logical-domain"
+    "relUrl": "/userdoc/domains.html#_19_0_2_8710274_1573478570540_322780_55779"
   },"1181": {
     "doc": "Domains",
-    "title": "Operational Domain",
+    "title": " Operational Domain",
     "content": "The SAF Operational Domain adresses the information need during the concept phase (misson Analysis and Stakeholder Requirements elicitation). It supports the model-based development of a CONOPS - as well as an OPSCON and related life cycle concepts - for an organization or operational entity seeking for an improvement of existing capabilities or in establishing new ones. ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#operational-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_19_0_2_8710274_1573478201473_148841_55747",
     
-    "relUrl": "/userdoc/domains.html#operational-domain"
+    "relUrl": "/userdoc/domains.html#_19_0_2_8710274_1573478201473_148841_55747"
   },"1182": {
     "doc": "Domains",
-    "title": "Physical Domain",
+    "title": " Physical Domain",
     "content": "The SAF Physical Domain addresses information needs during the Design Definition Process. It takes a view on the physical black and white box aspects of the system. It supports the representation of the Product Breakdown Structure, the identification of external and internal physical interfaces, the provision of viewpoints for the system overview, the integration planning, production planning, and the features and variations implied in the system. The physical architecture typically is a combination of re-use elements, COTS elements and make-items for HW as well as for SW. The properties of the selected physical components and their provided resources are identified and modeled. A major concern of the SAF Physical Domain are the physical interfaces, their identification and definition. For that purpose, the SAF Physical Domain provides the viewpoints to model interface with different level of detail considering the actual needs for the point of time in the project life cycle. For traceability the SAF Physical Domain defines viewpoints showing the mapping of the functional elements and their interfaces to physical elements and their interfaces. ",
-    "url": "/SAF-Specification-TestFork/userdoc/domains.html#physical-domain",
+    "url": "/SAF-Specification-TestFork/userdoc/domains.html#_19_0_2_8710274_1573478640538_228530_55788",
     
-    "relUrl": "/userdoc/domains.html#physical-domain"
+    "relUrl": "/userdoc/domains.html#_19_0_2_8710274_1573478640538_228530_55788"
   },"1183": {
     "doc": "FAQ",
     "title": "Frequently Asked Questions",
@@ -8324,7 +8324,7 @@
   },"1189": {
     "doc": "FAQ",
     "title": "Grid",
-    "content": "What is the Grid? . The Grid of a Framework is a means to organize and structure the Viewpoints of a Framework. It is like a tool-wall in a well organized workshop. Every tool has its place and is easily accessable. See the SAF Viewpoint Grid . ",
+    "content": "What is the Grid? . The Grid of a Framework is a means to organize and structure the Viewpoints of a Framework. It is like a tool-wall in a well organized workshop. Every tool has its place and is easily accessable. See the SAF grid . ",
     "url": "/SAF-Specification-TestFork/userdoc/faq.html#grid",
     
     "relUrl": "/userdoc/faq.html#grid"
@@ -8373,7 +8373,7 @@
   },"1196": {
     "doc": "Introduction",
     "title": "SAF Grid",
-    "content": "| | Context &amp; Exchange | Taxonomy &amp; Structure | Process &amp; Behavior | Interaction &amp; Collaboration | Interface | Requirement | Safety &amp; Security | Traceability &amp; Mapping | . | Common | | C2_ARASArgumentation Assurance Viewpoint C2_CSTDCommon Standards Definition Viewpoint C2_TRMDCommon Terms Definition Viewpoint C2_GRIDGrid Definition Viewpoint | | | | | | | . | Operational | O1_OCXDOperational Context Definition Viewpoint O1_OCXEOperational Context Exchange Viewpoint O1_OSTYOperational Story Viewpoint | O2_OCYDOperational Capability Definition Viewpoint O2_ODIKOperational Domain Item Kind Viewpoint O2_OPRFOperational Performer Viewpoint O2_STIDStakeholder Identification Viewpoint | O3_OPROOperational Process Viewpoint | O4_OCXIOperational Context Interaction Viewpoint | | O6_SKRDStakeholder Requirement Definition Viewpoint | | O8_OCYMOperational Capability Mapping Viewpoint O8_OPRMOperational Process Mapping Viewpoint | . | Functional | F1_SCXDSystem Context Definition Viewpoint F1_SCXESystem Context Exchange Viewpoint F1_SUCDSystem Use Case Viewpoint | F2_SCYDSystem Capability Definition Viewpoint F2_SDIKSystem Domain Item Kind Viewpoint F2_SFBSSystem Functional Breakdown Structure Viewpoint | F3_SFRESystem Functional Refinement Viewpoint F3_SPROSystem Process Viewpoint F3_SSTASystem State Viewpoint | F4_SCXISystem Context Interaction Viewpoint | F5_SIFDSystem Interface Definition Viewpoint | F6_SRQDSystem Requirement Definition Viewpoint | F7_ASIDAsset Identification Viewpoint F7_IMANImpact Analysis Viewpoint F7_SECTSecurity Context Viewpoint F7_RIANSecurity Risk Analysis Viewpoint F7_THSCThreat Szenario Viewpoint | F8_SCYMSystem Capability Mapping Viewpoint F8_SRQTSystem Requirement Traceability Viewpoint | . | Logical | | L2_LSTDLogical Structure Definition Viewpoint | | L4_LIEXLogical Internal Exchange Viewpoint L4_LITILogical Internal Interaction Viewpoint | | | | L8_LFUMLogical Functional Mapping Viewpoint | . | Physical | P1_PCXDPhysical Context Definition Viewpoint P1_PCXEPhysical Context Exchange Viewpoint | P2_PSTDPhysical Structure Definition Viewpoint | | P4_PIEXPhysical Internal Exchange Viewpoint | P5_PIFDPhysical Interface Definition Viewpoint | | | P8_PFUMPhysical Functional Mapping Viewpoint P8_PLIMPhysical Logical Item Mapping Viewpoint P8_PLOMPhysical Logical Mapping Viewpoint | . | SAF Development | | D2_COTDFramework Concept Definition Viewpoint D2_STKDFramework Stakeholder and Concern Definition Viewpoint D2_STYDFramework Stereotype Overview Viewpoint D2_VPTDFramework Viewpoint Definition Viewpoint D2_VPTIFramework Viewpoint Implementation Viewpoint D2_VPTOFramework Viewpoint Overview Viewpoint | | | | | | D8_STYDFramework Implementation Traceability Viewpoint | . ",
+    "content": "| | AspectContext &amp; Exchange | AspectTaxonomy &amp; Structure | AspectProcess &amp; Behavior | AspectInteraction &amp; Collaboration | AspectInterface | AspectRequirement | AspectSafety &amp; Security | AspectTraceability &amp; Mapping | . | CommonDomain | | C2_ARASArgumentation Assurance Viewpoint C2_CSTDCommon Standards Definition Viewpoint C2_TRMDCommon Terms Definition Viewpoint C2_GRIDGrid Definition Viewpoint | | | | | | | . | OperationalDomain | O1_OCXDOperational Context Definition Viewpoint O1_OCXEOperational Context Exchange Viewpoint O1_OSTYOperational Story Viewpoint | O2_OCYDOperational Capability Definition Viewpoint O2_ODIKOperational Domain Item Kind Viewpoint O2_OPRFOperational Performer Viewpoint O2_STIDStakeholder Identification Viewpoint | O3_OPROOperational Process Viewpoint | O4_OCXIOperational Context Interaction Viewpoint | | O6_SKRDStakeholder Requirement Definition Viewpoint | | O8_OCYMOperational Capability Mapping Viewpoint O8_OPRMOperational Process Mapping Viewpoint | . | FunctionalDomain | F1_SCXDSystem Context Definition Viewpoint F1_SCXESystem Context Exchange Viewpoint F1_SUCDSystem Use Case Viewpoint | F2_SCYDSystem Capability Definition Viewpoint F2_SDIKSystem Domain Item Kind Viewpoint F2_SFBSSystem Functional Breakdown Structure Viewpoint | F3_SFRESystem Functional Refinement Viewpoint F3_SPROSystem Process Viewpoint F3_SSTASystem State Viewpoint | F4_SCXISystem Context Interaction Viewpoint | F5_SIFDSystem Interface Definition Viewpoint | F6_SRQDSystem Requirement Definition Viewpoint | F7_ASIDAsset Identification Viewpoint F7_IMANImpact Analysis Viewpoint F7_SECTSecurity Context Viewpoint F7_RIANSecurity Risk Analysis Viewpoint F7_THSCThreat Szenario Viewpoint | F8_SCYMSystem Capability Mapping Viewpoint F8_SRQTSystem Requirement Traceability Viewpoint | . | LogicalDomain | | L2_LSTDLogical Structure Definition Viewpoint | | L4_LIEXLogical Internal Exchange Viewpoint L4_LITILogical Internal Interaction Viewpoint | | | | L8_LFUMLogical Functional Mapping Viewpoint | . | PhysicalDomain | P1_PCXDPhysical Context Definition Viewpoint P1_PCXEPhysical Context Exchange Viewpoint | P2_PSTDPhysical Structure Definition Viewpoint | | P4_PIEXPhysical Internal Exchange Viewpoint | P5_PIFDPhysical Interface Definition Viewpoint | | | P8_PFUMPhysical Functional Mapping Viewpoint P8_PLIMPhysical Logical Item Mapping Viewpoint P8_PLOMPhysical Logical Mapping Viewpoint | . | SAF DevelopmentDomain | | D2_COTDFramework Concept Definition Viewpoint D2_STKDFramework Stakeholder and Concern Definition Viewpoint D2_STYDFramework Stereotype Overview Viewpoint D2_VPTDFramework Viewpoint Definition Viewpoint D2_VPTIFramework Viewpoint Implementation Viewpoint D2_VPTOFramework Viewpoint Overview Viewpoint | | | | | | D8_STYDFramework Implementation Traceability Viewpoint | . ",
     "url": "/SAF-Specification-TestFork/#saf-grid",
     
     "relUrl": "/#saf-grid"
@@ -8975,7 +8975,7 @@
   },"1282": {
     "doc": "Framework Structure",
     "title": "Framework Structure",
-    "content": "Stakeholders of the Architecture and their Information Need . SAF partitions the amount of modeling work for e.g. a whole system architecture into smaller parts, which each deliver value for stakeholders of the architecture by satisfying their information needs. Viewpoints satisfying Information Needs . These smaller parts are called viewpoints. They each serve a certain purpose, adress stakeholders concerns by presenting stakeholders a subset of the whole model. Viewpoints used to plan and partition work . This allows to partition and plan the work on the MBSE effort according to the problem at hand and helps to focus to the most important parts of the work. A MBSE approach can be planned by defining which viewpoints must be worked on in which phase of the MBSE effort, and it also could prioritize work or define different depths of elaboration for the viewpoints to work on. Because of this, SAF helps to execute an MBSE effort by a plan which is backed by reasoning about the information need of stakeholders. Viewpoints guide modeling effort to deliver stakeholder value . The viewpoints specify, which model elements shall be created in which kind of diagrams to serve the viewpoints purpose and adress the concerns of the stakeholders interested in the viewpoints. SAF Viewpoint Grid . The SAF Viewpoints are organized as a Grid featuring Domains as rows and Aspects as columns. Domains follow engineering workflow . The Domains are based on by a typical engineering workflow. | The Common Domain contains workflow overarching content such as Terms and Standards. | The Operational Domain addresses information need during the Business and Mission Analysis Process and Stakeholder Needs and Requirements Definition Process | The Functional Domain addresses information needs during the System Requirements Definition Process (The System blackbox on a conceptual level) | The Logical Domain adresses information needs during the Architecture Definition Process (the System Whitebox on conceptual level) | The Physical Domain adresses information needs during the Design Definition Process (the System Black Box and Whitebox on solution / design level) | . Aspects follow kinds of concerns . The Aspects are oriented by the kind of information needs, e.g. questions about structure are answered by viewpoints in the taxonomy and structure aspect. Typically similar kinds of questions need to be answered in multiple domains, hence the organisation of grid columns. ",
+    "content": "Stakeholders of the Architecture and their Information Need . SAF partitions the amount of modeling work for e.g. a whole system architecture into smaller parts, which each deliver value for stakeholders of the architecture by satisfying their information needs. Viewpoints satisfying Information Needs . These smaller parts are called viewpoints. They each serve a certain purpose, adress stakeholders concerns by presenting stakeholders a subset of the whole model. Viewpoints used to plan and partition work . This allows to partition and plan the work on the MBSE effort according to the problem at hand and helps to focus to the most important parts of the work. A MBSE approach can be planned by defining which viewpoints must be worked on in which phase of the MBSE effort, and it also could prioritize work or define different depths of elaboration for the viewpoints to work on. Because of this, SAF helps to execute an MBSE effort by a plan which is backed by reasoning about the information need of stakeholders. Viewpoints guide modeling effort to deliver stakeholder value . The viewpoints specify, which model elements shall be created in which kind of diagrams to serve the viewpoints purpose and adress the concerns of the stakeholders interested in the viewpoints. SAF Viewpoint Grid . The SAF Viewpoints are organized as a Grid featuring Domains as rows and Aspects as columns. See the SAF grid . Domains follow engineering workflow . The Domains are based on by a typical engineering workflow. | The Common Domain contains workflow overarching content such as Terms and Standards. | The Operational Domain addresses information need during the Business and Mission Analysis Process and Stakeholder Needs and Requirements Definition Process | The Functional Domain addresses information needs during the System Requirements Definition Process (The System blackbox on a conceptual level) | The Logical Domain adresses information needs during the Architecture Definition Process (the System Whitebox on conceptual level) | The Physical Domain adresses information needs during the Design Definition Process (the System Black Box and Whitebox on solution / design level) | . Aspects follow kinds of concerns . The Aspects are oriented by the kind of information needs, e.g. questions about structure are answered by viewpoints in the taxonomy and structure aspect. Typically similar kinds of questions need to be answered in multiple domains, hence the organisation of grid columns. ",
     "url": "/SAF-Specification-TestFork/userdoc/structure.html",
     
     "relUrl": "/userdoc/structure.html"
