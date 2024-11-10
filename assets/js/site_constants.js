@@ -1,4 +1,4 @@
 
-const basePath = 'SAF-Specification-TestFork';
+const basePath = '';
 const repository_nwo = 'haarer/SAF-Specification-TestFork';
 
